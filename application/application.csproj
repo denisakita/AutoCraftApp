@@ -12,4 +12,8 @@
         <ProjectReference Include="..\domain\domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Handlers\" />
+    </ItemGroup>
+
 </Project>
